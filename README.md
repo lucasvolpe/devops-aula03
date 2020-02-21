@@ -1,1 +1,6 @@
-# devops-aula03
+- atriz 1
+- atriz 1
+- atriz 1
+- ator 2
+- ator 3
+- ator 4
